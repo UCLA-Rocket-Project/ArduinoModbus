@@ -1,3 +1,6 @@
+== NOTE ==
+Modified to strip out all references to RS-485 to reduce compile size
+
 = Modbus Library for Arduino =
 
 Use http://www.modbus.org/[Modbus] with your Arduino. 
